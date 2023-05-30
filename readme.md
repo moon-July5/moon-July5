@@ -2,7 +2,7 @@
 # 💡 꾸준하게 긍정적이게
 현재 공부중인 백엔드 개발자 지망생입니다.
 
-📩 Email : rudtjr0705@naver.com
+📩 Email : mks070596@gmail.com
 
 📌 Blog : [https://velog.io/@moon-july5](https://velog.io/@moon-july5)
 ## Github Stats
